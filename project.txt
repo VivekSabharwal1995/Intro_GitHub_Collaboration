@@ -2,3 +2,5 @@ Welcome to our GitHub Collaboration Project.
 
 Homepage feature is being developed.
 
+Navbar feature is being developed by liza kajla.
+
